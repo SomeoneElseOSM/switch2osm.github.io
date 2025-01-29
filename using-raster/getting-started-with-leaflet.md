@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Getting started with Leaflet
-permalink: /using-tiles/getting-started-with-leaflet/
+permalink: /using-raster/getting-started-with-leaflet/
 ---
 
 # Introduction

@@ -23,8 +23,10 @@ menu:
     url: /case-studies/
   - title: The Basics
     url: /the-basics/
-  - title: Using Tiles
-    url: /using-tiles/
+  - title: Using Raster Tiles
+    url: /using-raster/
+  - title: Using Vector Tiles
+    url: /using-vector/
   - title: Serving Tiles
     url: /serving-tiles/
   - title: Other Uses

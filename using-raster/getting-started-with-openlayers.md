@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Getting started with OpenLayers
-permalink: /using-tiles/getting-started-with-openlayers/
+permalink: /using-raster/getting-started-with-openlayers/
 ---
 
 ## Introduction
